@@ -2,19 +2,6 @@
 
 Create a simple dashboard tabs using Custom TabView.
 
-##### <com.custom.views.TabView
-##### android:id="@+id/tab_view_1"
-##### android:layout_width="match_parent"
-##### android:layout_height="wrap_content"
-##### app:drawable_one="@drawable/icon_img"
-##### app:drawable_two="@drawable/icon_camera"
-##### app:tab_height="2.5"
-##### app:tag="1"
-##### app:text_1="Image"
-##### app:text_2="Camera" />
-
-
-
 
 
 ###	Here the explanation regarding TabView:
