@@ -1,5 +1,7 @@
 # DashboardTab
 
+![alt text](https://github.com/javedalam05/DashboardTab/blob/master/in_tab.png)
+
 Create a simple dashboard tabs using Custom TabView.
 
 ```
