@@ -54,6 +54,7 @@ This is for row tag (2 = row 2, 1 = row 1). Change tags according to need
 
 ## Interface button clicks:
 •	Left tab of a row always be in odd series like as given in toast (Refer:firstButtonClick)
+
 •	Right tab of a row always be in even service like as given in toast (Refer: secondButtonClick)
 
 
