@@ -47,3 +47,47 @@ This is for height ratio. (4= 40% of device screen height)
 vi.	app:tag="2"
 ```
 This is for row tag (2 = row 2, 1 = row 1). Change tags according to need
+
+
+
+
+
+### Interface button clicks:
+•	Left tab of a row always be in odd series like as given in toast (Refer:firstButtonClick)
+•	Right tab of a row always be in even service like as given in toast (Refer: secondButtonClick)
+
+
+i.	firstButtonClick for left tab click (Differentiate by tags you given in xml)
+```
+@Override
+public void firstButtonClick(inttag) {
+switch (tag) {
+case 1:
+Toast.makeText(this, "click tab 1", Toast.LENGTH_SHORT).show();
+break;
+case 2:
+Toast.makeText(this, "click tab 3", Toast.LENGTH_SHORT).show();
+break;
+
+        }
+
+    }
+```
+
+```
+ii.	secondButtonClick for right tab click (Differentiate by tags you given in xml)
+
+@Override
+public void secondButtonClick(inttag) {
+switch (tag) {
+case 1:
+Toast.makeText(this, "click tab 2", Toast.LENGTH_SHORT).show();
+break;
+case 2:
+Toast.makeText(this, "click tab 4", Toast.LENGTH_SHORT).show();
+break;
+
+        }
+    }
+
+```
