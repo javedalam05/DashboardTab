@@ -94,9 +94,11 @@ break;
 ```
 
 ```
-For more detail download: https://github.com/javedalam05/DashboardTab/blob/master/read_me.doc
+For more detail download: 
+https://github.com/javedalam05/DashboardTab/blob/master/read_me.doc
 ```
 
 ```
-Stackoverflow link: https://stackoverflow.com/questions/47379708/how-to-create-a-simple-dashboard-tabs-using-custom-tabview-in-android
+Stackoverflow link: 
+https://stackoverflow.com/questions/47379708/how-to-create-a-simple-dashboard-tabs-using-custom-tabview-in-android
 ```
