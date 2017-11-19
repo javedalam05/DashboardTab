@@ -98,5 +98,5 @@ For more detail download: https://github.com/javedalam05/DashboardTab/blob/maste
 ```
 
 ```
-
+Stackoverflow link: https://stackoverflow.com/questions/47379708/how-to-create-a-simple-dashboard-tabs-using-custom-tabview-in-android
 ```
