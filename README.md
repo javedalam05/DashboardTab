@@ -43,7 +43,7 @@ This is right text for row
 ```
 v.	app:tab_height="4"
 ```
-This is for height ratio. (4= screenheight/4 means)
+This is for height ratio. (4 = screenheight/4 means one fourth part of the device screen height). You also pass value in float like 3.5 or 4.5 that means screenheight/3.5 or screenheight/4.5.
 
 ```
 vi.	app:tag="2"
